@@ -26,11 +26,11 @@ Windows Server administration.
 
 ## Project Status
 
-- [ ] VMware network configuration
-- [ ] DC01 installation
-- [ ] Active Directory installation
-- [ ] DNS configuration
-- [ ] DHCP configuration
+- [X] VMware network configuration
+- [X] DC01 installation
+- [X] Active Directory installation
+- [X] DNS configuration
+- [X] DHCP configuration
 - [ ] CLIENT01 domain join
 - [ ] Users, groups and OUs
 - [ ] Group Policy configuration
