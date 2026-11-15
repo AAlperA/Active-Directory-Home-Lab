@@ -31,8 +31,8 @@ Windows Server administration.
 - [X] Active Directory installation
 - [X] DNS configuration
 - [X] DHCP configuration
-- [ ] CLIENT01 domain join
-- [ ] Users, groups and OUs
+- [X] CLIENT01 domain join
+- [X] Users, groups and OUs
 - [ ] Group Policy configuration
 - [ ] Network traffic analysis
 - [ ] Final documentation
