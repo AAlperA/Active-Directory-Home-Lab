@@ -33,6 +33,6 @@ Windows Server administration.
 - [X] DHCP configuration
 - [X] CLIENT01 domain join
 - [X] Users, groups and OUs
-- [ ] Group Policy configuration
-- [ ] Network traffic analysis
+- [X] Group Policy configuration
+- [X] Network traffic analysis
 - [ ] Final documentation
